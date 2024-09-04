@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Inevitablesense686
 - 👀 I’m interested in humanities and information tech
-- 🌱 I’m currently learning about agriculture as a social science
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me jodsongraves@gmail.com
+- 🌱 I’m currently learning about basic code generation
+- 💞️ I’m looking to collaborate at ntari.org
+- 📫 How to reach me info@ntari.org, subject: GitHub Contact
 - 😄 Pronouns: ...bruh
 - ⚡ Fun fact: I'm the founder of the Network Theory Applied Research Institute. Learn more at NTARI.org
