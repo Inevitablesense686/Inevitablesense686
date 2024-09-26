@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Inevitablesense686
+- 👋 Hi, I’m Afilado Tumbas
 - 👀 I’m interested in humanities and information tech
 - 🌱 I’m currently learning about basic code generation
 - 💞️ I’m looking to collaborate at ntari.org
