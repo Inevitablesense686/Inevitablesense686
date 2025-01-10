@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Afilado Tumbas
-- 👀 I’m interested in humanities and information tech
-- 🌱 I’m currently learning about basic code generation
+- 👋 Hi, I’m Jodson Graves
+- 👀 I’m interested cosmology and statecraft
+- 🌱 I’m currently studying through the Code:You program
 - 💞️ I’m looking to collaborate at ntari.org
 - 📫 How to reach me info@ntari.org, subject: GitHub Contact
-- 😄 Pronouns: ...bruh
-- ⚡ Fun fact: I'm the founder of the Network Theory Applied Research Institute. Learn more at NTARI.org
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm the founder of the Network Theory Applied Research Institute. Learn more at NTARI.or
